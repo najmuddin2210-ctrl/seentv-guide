@@ -28,7 +28,7 @@ jobs:
       - name: Extract project
         run: |
           mkdir -p project
-          unzip -o SEENTV_GUIDE_V3.zip -d project
+          unzip -o SEENTV_GUIDE_V4.zip -d project
 
       - name: Find Android project
         run: |
